@@ -1,0 +1,7 @@
+print("hello world")
+print(5)
+print(17*13)
+print("my name is sachin")
+print("sachin is my name.", "my age is 18")
+print(44+67)
+print(99-88)
